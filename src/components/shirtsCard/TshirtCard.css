@@ -1,0 +1,15 @@
+.T-shirtCard {
+    text-align: center;
+    background-color: rgb(195, 125, 113);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+
+}
+
+.T-shirtCard img {
+    width: 250px;
+    height: 350px;
+    border-radius: 15px;
+
+}

@@ -1,0 +1,8 @@
+.HeaderComponents {
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 5px;
+    padding: 15px 5px;
+    background-color: whitesmoke;
+    border-radius: 15px;
+}
